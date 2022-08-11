@@ -1,8 +1,6 @@
 ### Hi there 👋
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a><img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 <!--
 **djawnstj/djawnstj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
