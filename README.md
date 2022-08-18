@@ -4,6 +4,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=djawnstj&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawnstj&layout=compact&theme=graywhite)
 <!--
 **djawnstj/djawnstj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
