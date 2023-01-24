@@ -28,7 +28,7 @@
 # Stats
 ![GitHub-stats](https://github-readme-stats.vercel.app/api?username=djawnstj&show_icons=true&theme=graywhite)
 ![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawnstj&layout=compact&theme=graywhite)
-![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djawnstj)
+[![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djawnstj)](https://solved.ac/djawnstj/)
 
 
 <!--
