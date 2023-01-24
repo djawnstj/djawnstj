@@ -8,25 +8,27 @@
 # Skills
 
 #### Languages
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white" alt="Java">
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin"></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white" alt="Java"></a>
 
-![kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white)
-
+[//]: # (![kotlin]&#40;https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white&#41;)
+[//]: # (![Java]&#40;https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=white&#41;)
 [//]: # (![JavaScript]&#40;https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&#41;)
 [//]: # (![TypeScript]&#40;https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white&#41;)
 
 #### tech stacks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"></a>
+<a href="#"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot"></a>
+<a href="#"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white" alt="Android"></a>
 
+[//]: # (![Spring]&#40;https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white&#41;)
+[//]: # (![SpringBoot]&#40;https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white&#41;)
+[//]: # (![Android]&#40;https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&#41;)
 
 # Stats
 ![GitHub-stats](https://github-readme-stats.vercel.app/api?username=djawnstj&show_icons=true&theme=graywhite)
 ![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawnstj&layout=compact&theme=graywhite)
-[![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djawnstj)](https://solved.ac/djawnstj/)
+![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djawnstj)
 
 
 <!--
