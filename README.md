@@ -2,9 +2,8 @@
 # Junseo Eom [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdjawnstj&count_bg=%23B3D5FF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## Contacts
-[![Tech-Blog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@djawnstj)](https://velog.io/@djawnstj)
+[![Tech-Blog](https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=Tistory&logoColor=white&link=https://djawnstj.tistory.com)](https://djawnstj.tistory.com)
 [![Gmail-Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:djawnstj44@gmail.com)](mailto:djawnstj44@gmail.com)
-
 # Skills
 
 #### Languages
