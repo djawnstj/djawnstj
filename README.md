@@ -25,6 +25,4 @@
 [//]: # (![Android]&#40;https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white&#41;)
 
 # Stats
-![GitHub-stats](https://github-readme-stats.vercel.app/api?username=djawnstj&show_icons=true&theme=graywhite)
-![Top-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djawnstj&layout=compact&theme=graywhite)
 [![Solved.ac-Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=djawnstj)](https://solved.ac/djawnstj/)
