@@ -3,11 +3,11 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/djawnstj"
+    src="https://render.gitanimals.org/lines/djawnstj?pet-id=586746208756509572"
     width="640"
     height="320"
   />
-</a>
+</a>  
   
 ## Contacts
 [![Tech-Blog](https://img.shields.io/badge/Tistory-FF5A00?style=flat-square&logo=Tistory&logoColor=white&link=https://djawnstj.tistory.com)](https://djawnstj.tistory.com)
